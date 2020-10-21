@@ -11,3 +11,4 @@ Knowing about upcoming products and priorities helps AWS customers plan. This re
 | [Elastic Beanstalk](https://github.com/aws/elastic-beanstalk-roadmap/projects/1)|Public roadmap for AWS Elastic Beanstalk| 
 | [AWS CDK](https://github.com/orgs/aws/projects/7)|Public roadmap for AWS CDK| 
 | [Firecracker](https://github.com/firecracker-microvm/firecracker/projects/13)|Public roadmap for Firecracker Micro VM | 
+| [EC2 Spot Instances integrations roadmap](https://github.com/aws/ec2-spot-instances-integrations-roadmap/projects/1)|Public roadmap for EC2 Spot Instances integrations| 
